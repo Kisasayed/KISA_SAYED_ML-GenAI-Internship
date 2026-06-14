@@ -1,4 +1,5 @@
 # Netflix User Analytics Assignment
+week 2 assignment 1
 # Name: Kisa Fatema Haider Sayed
 # Enrollment Number: 03404092025
 # College: IGDTUW
