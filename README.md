@@ -1,1 +1,1 @@
-# ML-GenAI-Internship-Assignments
+WEEK 2 ASSIGNMENT 1
